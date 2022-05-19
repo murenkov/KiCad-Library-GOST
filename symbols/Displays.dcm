@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HG_LED_AN
+D Семисегментный индикатор с общим анодом
+$ENDCMP
+#
+$CMP HG_LED_AN2
+D Семисегментный индикатор с общим анодом сдвоенный
+$ENDCMP
+#
+$CMP HG_LED_AN9
+D Семисегментный индикатор с общим анодом на 9 позиций
+$ENDCMP
+#
+$CMP HG_LED_KA
+D Семисегментный индикатор с общим катодом
+$ENDCMP
+#
+$CMP HG_LED_KA2
+D Семисегментный индикатор с общим катодом сдвоенный
+$ENDCMP
+#
+$CMP HG_LED_KA9
+D Семисегментный индикатор с общим катодом на 9 позиций
+$ENDCMP
+#
+$CMP TFT2.4
+D TFT Display ILIxxxx
+K ILI9341, tft 2.4
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G8ND-2S-AS SK
+D G8ND-2S-AS SK
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-g8nd.pdf
+$ENDCMP
+# end doc library

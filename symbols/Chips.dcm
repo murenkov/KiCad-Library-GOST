@@ -1,0 +1,264 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24LC64
+D 64K I2C Serial EEPROM
+K eeprom, i2c, memory, storage, iic, 64k, 24lc64, 24lc
+F http://ww1.microchip.com/downloads/en/devicedoc/21189f.pdf
+$ENDCMP
+#
+$CMP A4988
+D DMOS Microstepping Driver with Translator And Overcurrent Protection
+K TMC2208, stepper motor, step, mot, driver
+$ENDCMP
+#
+$CMP ADXL345
+D Digital Accelerometer
+K adxl345, acceletometer, sensor
+$ENDCMP
+#
+$CMP AMS1117-1.2
+D 1.2V Voltage Regulator (Low ESR Cap.Compatible)
+K ams, asms1117, 1.2, 1v2, voltage regulator, stabilizer
+$ENDCMP
+#
+$CMP AMS1117-3.3
+D 3.3V Voltage Regulator (Low ESR Cap.Compatible)
+K ams, asms1117, 3.3, 3v3, voltage regulator, stabilizer
+$ENDCMP
+#
+$CMP AMS1117CD-3.3
+D 3.3V Voltage Regulator - Low.
+K 3v3, 3.3, 33,  78m33, l03, regulator, stabilizer, ldo
+F https://ru.mouser.com/datasheet/2/308/1/LP2950_D-2315107.pdf
+$ENDCMP
+#
+$CMP Crystal_3PIN
+D Crystal 3pin (built-in capacitors) CSTCE16M0V53-R0
+K CSTCE16M0V53-R0, crystal, 8mhz, 16mhz, mhz
+$ENDCMP
+#
+$CMP Crystal_4PIN
+D Crystal 4pin
+K crystal, 8mhz, 16mhz, mhz
+$ENDCMP
+#
+$CMP DA_STU
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP DA_SWB
+D Коммутатор электронный размыкающий
+$ENDCMP
+#
+$CMP DA_SWM
+D Коммутатор электронный замыкающий
+$ENDCMP
+#
+$CMP DFPlayer
+D MP3 UART player with built-in amplifier
+K dfplayer, mp3, player, wav
+$ENDCMP
+#
+$CMP D_AK
+D Набор диодов анод-катод
+$ENDCMP
+#
+$CMP D_KA
+D Набор диодов катод-анод
+$ENDCMP
+#
+$CMP D_R
+D Набор резисторов
+$ENDCMP
+#
+$CMP L7805CD2T-TR
+D 5V 1.5A Positive voltage regulator
+K 5v, lm78l05, l05, regulator, stabilizer
+F https://ru.mouser.com/datasheet/2/389/cd00000444-1795274.pdf
+$ENDCMP
+#
+$CMP L78M05CDT-TR
+D Precision 5V 500 mA regulator
+K 5v, lm78l05, l05, regulator, stabilizer
+F https://ru.mouser.com/datasheet/2/389/cd00000447-1795461.pdf
+$ENDCMP
+#
+$CMP LP2950CDT-3.3RKG
+D 3.3V Voltage Regulator - Low.
+K 3v3, 3.3, 33,  78m33, l03, regulator, stabilizer, ldo
+F https://ru.mouser.com/datasheet/2/308/1/LP2950_D-2315107.pdf
+$ENDCMP
+#
+$CMP MAX3232
+D 3--V to 5.5-V Multichannel RS-232 Line Driver and Receiver
+K max3232, 3232, rs232, 232, converter
+F https://www.ti.com/lit/ds/symlink/max3232.pdf?ts=1636803222326&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP MCP23017
+D ESP32 WiFi Microcontrooler Mole
+K esp32, wroom, mcu, wifi
+$ENDCMP
+#
+$CMP MP2307
+D DC Step-Down
+K dc, step down, dc-dc
+$ENDCMP
+#
+$CMP NE555
+D Precision Timer
+K 555, ne555, timer,
+$ENDCMP
+#
+$CMP SIM800L
+D GSM/GPRS SIM800L UART
+K sim800l, 800, sim, sim800, gprs, gsm
+$ENDCMP
+#
+$CMP ST485
+K rs485, 485
+$ENDCMP
+#
+$CMP TB6612
+D Driver IC for Dual DC motor
+K tb6612, 6612, driver, dc motor
+F https://www.sparkfun.com/datasheets/Robotics/TB6612FNG.pdf
+$ENDCMP
+#
+$CMP TMC2208
+D Step/Dir Drivers for Two-Phase Bipolar Stepper Motors up to 2A peak
+K TMC2208, stepper motor, step, mot, driver
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC2224_datasheet_Rev1.09.pdf
+$ENDCMP
+#
+$CMP TMC2208_MODULE
+D MP3 UART player with built-in amplifier
+K dfplayer, mp3, player, wav
+$ENDCMP
+#
+$CMP TP4056
+D 1A Standalone Linear Li-lon Battery Charger with Thermal Regulation
+K tp4056, 4056, liion, charger, tp, li-ion, lipo, usb
+$ENDCMP
+#
+$CMP TPS73733
+D 3.3V Voltage Regulator (Low ESR Cap.Compatible)
+K ams, asms1117, 3.3, 3v3, voltage regulator, stabilizer
+$ENDCMP
+#
+$CMP XC6206P332MR
+D 3.3V Voltage Regulator (Low ESR Cap.Compatible)
+K 6206, 3.3, 3v3, xc6206, voltage regulator, stabilizer
+$ENDCMP
+#
+$CMP XL4005
+D 5A 300KHz 32V Buck DC to DC Converter XL4005
+K xl4005, step down, dc-dc, buck, converter
+F http://www.xlsemi.com/datasheet/xl4005%20datasheet.pdf
+$ENDCMP
+#
+$CMP К561КП2
+D Мультиплексор на 8 каналов
+$ENDCMP
+#
+$CMP КР1006ВИ1
+D Универсальный таймер
+$ENDCMP
+#
+$CMP КР142ЕН
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН1А
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН1Б
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН1В
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН1Г
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН2А
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН2Б
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН2В
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН2Г
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН5А
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН5Б
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН5В
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН5Г
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН8А
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН8Б
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН8В
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН8Г
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН8Д
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР142ЕН8Е
+D Интегральный стабилизатор напряжения
+$ENDCMP
+#
+$CMP КР572ПА1
+D Умножающий десятиразрядный цифро-аналоговый преобразователь
+$ENDCMP
+#
+$CMP КР572ПА1А
+D Умножающий десятиразрядный цифро-аналоговый преобразователь
+$ENDCMP
+#
+$CMP КР597СА3
+D Компаратор напряжения сдвоенный маломощный
+$ENDCMP
+#
+$CMP КР597СА3А
+D Компаратор напряжения сдвоенный маломощный
+$ENDCMP
+#
+$CMP КР597СА3Б
+D Компаратор напряжения сдвоенный маломощный
+$ENDCMP
+#
+#End Doc Library

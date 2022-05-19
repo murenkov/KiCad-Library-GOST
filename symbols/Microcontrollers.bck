@@ -1,0 +1,61 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATmega2560
+D MCU
+K atmega2560, atmega, 2560, avr, arduino
+F https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf
+$ENDCMP
+#
+$CMP ATmega328P
+K avr, atmega, arduino, nano. mcu
+F https://www.st.com/resource/en/datasheet/stm32f103cb.pdf
+$ENDCMP
+#
+$CMP ESP32_WROOM_MODULE
+D ESP32 WiFi Microcontrooler Mole
+K esp32, wroom, mcu, wifi
+$ENDCMP
+#
+$CMP ESP8266-12E_WeMos
+D 3--V to 5.5-V Multichannel RS-232 Line Driver and Receiver
+K max3232, 3232, rs232, 232, converter
+F https://www.ti.com/lit/ds/symlink/max3232.pdf?ts=1636803222326&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP ESP8266_12E_WeMos
+D 3--V to 5.5-V Multichannel RS-232 Line Driver and Receiver
+K max3232, 3232, rs232, 232, converter
+F https://www.ti.com/lit/ds/symlink/max3232.pdf?ts=1636803222326&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP FE1.1s
+K fe1, fe1s, usb hub, hub, usb fe
+$ENDCMP
+#
+$CMP JDY40
+D JDY40 2.4MHz Module
+K jdy40
+$ENDCMP
+#
+$CMP STM32F030F4P6
+K stm32, mcu, f030
+F https://www.st.com/resource/en/datasheet/stm32f030f4.pdf
+$ENDCMP
+#
+$CMP STM32F103CBT6
+K stm32, mcu
+F https://www.st.com/resource/en/datasheet/stm32f103cb.pdf
+$ENDCMP
+#
+$CMP STM32F401CCU6
+D M4 32-bit MCU
+K stm32, mcu, stm32f401, f401, f4, microcontroller
+$ENDCMP
+#
+$CMP STM32F401CCU6_MODULE
+D M4 32-bit MCU
+K stm32, mcu, stm32f401, f401, f4, microcontroller
+F https://www.st.com/resource/en/datasheet/stm32f103cb.pdf
+$ENDCMP
+#
+#End Doc Library
