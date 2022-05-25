@@ -1167,8 +1167,8 @@
     )
     (symbol "POWER_1_1"
       (pin power_out clock (at 0 0 90) (length 3.81) hide
-        (name "POWER" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
+        (name "POWER" (effects (font (size 1.778 1.778))))
+        (number "1" (effects (font (size 1.778 1.778))))
       )
     )
   )

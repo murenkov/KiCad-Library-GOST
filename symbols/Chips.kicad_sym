@@ -2707,7 +2707,7 @@
         (name "RST" (effects (font (size 1.778 1.778))))
         (number "4" (effects (font (size 1.778 1.778))))
       )
-      (pin power_in line (at -16.51 -7.62 0) (length 3.81)
+      (pin input line (at -16.51 -7.62 0) (length 3.81)
         (name "CONT" (effects (font (size 1.778 1.778))))
         (number "5" (effects (font (size 1.778 1.778))))
       )
