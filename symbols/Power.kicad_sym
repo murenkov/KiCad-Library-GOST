@@ -286,7 +286,7 @@
       )
     )
   )
-  (symbol "3.3V" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "3.3V" (power) (pin_names (offset 1.016)) (in_bom no) (on_board no)
     (property "Reference" "U" (id 0) (at -2.54 5.08 0)
       (effects (font (size 1.778 1.778)) hide)
     )
