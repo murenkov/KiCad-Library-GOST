@@ -4,7 +4,7 @@
   (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
   (tags "resistor handsolder")
   (attr smd)
-  (fp_text reference "REF**" (at 1 -3.2) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -1.6) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 07e5baf8-6a7a-41f9-9679-e5f98e6d704a)
   )
