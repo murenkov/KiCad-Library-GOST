@@ -28,8 +28,8 @@
   (fp_line (start -1 0.6) (end 1 0.6) (layer "F.Fab") (width 0.1) (tstamp 743fc337-271f-448d-a12c-aa0e56c4c874))
   (fp_line (start 1 -0.6) (end -0.7 -0.6) (layer "F.Fab") (width 0.1) (tstamp a3ae3374-386b-4e94-a002-25876903632c))
   (fp_line (start 1 0.6) (end 1 -0.6) (layer "F.Fab") (width 0.1) (tstamp c061816d-dc7e-44ab-80a4-bb5f1ed45702))
-  (pad "1" smd roundrect (at -1.025 0) (size 1.15 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391) (tstamp 58b97601-395e-49e0-b1f3-9d17f617cd89))
-  (pad "2" smd roundrect (at 1.025 0) (size 1.15 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391) (tstamp 7c289c09-3d54-4dc3-99f0-9782e3cbcd01))
+  (pad "1" smd roundrect (at 1.025 0) (size 1.15 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391) (tstamp 7c289c09-3d54-4dc3-99f0-9782e3cbcd01))
+  (pad "2" smd roundrect (at -1.025 0) (size 1.15 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391) (tstamp 58b97601-395e-49e0-b1f3-9d17f617cd89))
   (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
