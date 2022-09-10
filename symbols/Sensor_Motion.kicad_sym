@@ -1179,11 +1179,11 @@
       )
     )
   )
-  (symbol "LIS3DH" (in_bom yes) (on_board yes)
+  (symbol "LIS3DH_ORIGIN" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -7.62 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LIS3DH" (id 1) (at 6.35 11.43 0)
+    (property "Value" "LIS3DH_ORIGIN" (id 1) (at 6.35 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y" (id 2) (at 2.54 -26.67 0)
@@ -1201,13 +1201,13 @@
     (property "ki_fp_filters" "LGA*3x3mm*P0.5mm*LayoutBorder3x5y*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LIS3DH_0_1"
+    (symbol "LIS3DH_ORIGIN_0_1"
       (rectangle (start -10.16 10.16) (end 10.16 -12.7)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "LIS3DH_1_1"
+    (symbol "LIS3DH_ORIGIN_1_1"
       (pin power_in line (at -2.54 12.7 270) (length 2.54)
         (name "VDD_IO" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -162,7 +162,10 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.778 1.778)) hide)
     )
-    (property "ki_description" "Конденсатор постоянной емкости" (id 4) (at 0 0 0)
+    (property "Assembly" "" (id 4) (at 0 -8.89 0)
+      (effects (font (size 1.778 1.778)))
+    )
+    (property "ki_description" "Конденсатор постоянной емкости" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "C_CAP_0_1"
