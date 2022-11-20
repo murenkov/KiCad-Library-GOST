@@ -33,8 +33,8 @@
   (fp_line (start 0.50118 0.00102) (end 1.4994 0.00102) (layer "F.Fab") (width 0.1) (tstamp aac58a3f-e50d-422c-833b-26cfeed60814))
   (fp_line (start 0.50118 0.75032) (end 0.50118 -0.79908) (layer "F.Fab") (width 0.1) (tstamp b0d89a83-8d66-4fc9-9d49-1285af0c72d9))
   (fp_line (start 2.3 -2) (end -2.3 -2) (layer "F.Fab") (width 0.1) (tstamp c93a12b6-9d3a-42ff-a8fe-abc6b4e31383))
-  (pad "1" smd rect (at -2.15 0) (size 2.5 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 87c8d66a-1538-483d-998c-0cd19c187d2e))
-  (pad "2" smd rect (at 2.15 0) (size 2.5 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fbe7b34c-dd01-4a2b-a73b-c030989cf749))
+  (pad "1" smd rect (at 2.15 0) (size 2.5 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fbe7b34c-dd01-4a2b-a73b-c030989cf749))
+  (pad "2" smd rect (at -2.15 0) (size 2.5 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 87c8d66a-1538-483d-998c-0cd19c187d2e))
   (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
