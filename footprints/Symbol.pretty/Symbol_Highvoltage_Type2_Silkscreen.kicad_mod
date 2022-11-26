@@ -4,7 +4,7 @@
   (descr "Symbol, Highvoltage, Type 2, Copper Top, Small,")
   (tags "Symbol, Highvoltage, Type 2, Copper Top, Small,")
   (attr exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "REF**" (at 0 -10.16) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -10.16) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e72dabac-06f9-42b0-88c8-82d5145954d9)
   )
