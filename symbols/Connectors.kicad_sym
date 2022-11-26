@@ -2378,7 +2378,7 @@
     (property "Case/Package" "" (id 4) (at 0 -4.445 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MNP" "" (id 5) (at 0 -6.096 0)
+    (property "MPN" "" (id 5) (at 0 -6.096 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Assembly" "External" (id 6) (at 0 -7.874 0)
