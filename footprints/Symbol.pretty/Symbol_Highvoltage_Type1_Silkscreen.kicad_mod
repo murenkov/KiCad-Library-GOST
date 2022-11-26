@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 51b236a7-e6ee-449b-8f4d-62643275030d)
   )
-  (fp_text value "Symbol_Highvoltage_Type1_Silkscreen" (at 0.508 4.191) (layer "F.Fab")
+  (fp_text value "Symbol_Highvoltage_Type1_Silkscreen" (at 0.508 4.191) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ea49503f-9891-4060-ab51-89f431bb9fee)
   )
