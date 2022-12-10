@@ -180,7 +180,10 @@
     (property "Assembly" "" (id 9) (at 5.715 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "ki_description" "Capacitor" (id 10) (at 0 0 0)
+    (property "LCSC" "" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Capacitor" (id 11) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "C_CAP_0_1"
@@ -270,7 +273,10 @@
     (property "Assembly" "" (id 7) (at 0 -10.795 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "ki_description" "Конденсатор полярный" (id 8) (at 0 0 0)
+    (property "LCSC" "" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Конденсатор полярный" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "C_CAP_PLUS_0_1"
