@@ -5269,7 +5269,7 @@
     (property "Value" "SIR182DP" (id 1) (at 0 11.684 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:PowerPAK_SO-8_Single" (id 2) (at 0 16.51 0)
+    (property "Footprint" "Package_SO:PowerPAK_SO-8_Single_HandSoldering" (id 2) (at 0 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -6.35 19.05 0)
