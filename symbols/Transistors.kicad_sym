@@ -1616,7 +1616,7 @@
     (property "Case/Package" "Case/Package" (id 4) (at -5.08 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MNP" "" (id 5) (at -13.208 -10.922 0)
+    (property "MPN" "" (id 5) (at -13.208 -10.922 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Assembly" "" (id 6) (at -13.462 -12.7 0)

@@ -23040,7 +23040,7 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MNP" "MPN" (id 4) (at 0 -6.985 0)
+    (property "MPN" "MPN" (id 4) (at 0 -6.985 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Assembly" "" (id 5) (at 0 -8.89 0)
