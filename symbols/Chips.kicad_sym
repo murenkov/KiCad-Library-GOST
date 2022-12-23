@@ -3403,11 +3403,11 @@
       )
     )
   )
-  (symbol "LM5051MA{brace}brace}brace}slash}NOPB" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "LM5051" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "DA" (id 0) (at 0 15.494 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LM5051MA{brace}brace}brace}slash}NOPB" (id 1) (at 0 13.716 0)
+    (property "Value" "LM5051" (id 1) (at 0 13.716 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_SO:SOIC127P600X175-8N" (id 2) (at -0.254 17.272 0)
@@ -3434,12 +3434,12 @@
     (property "ki_description" "LM5051 Low Side OR-ing FET Controller, Ideal Diode" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LM5051MA{brace}brace}brace}slash}NOPB_0_0"
+    (symbol "LM5051_0_0"
       (text "ORing" (at 0 5.08 0)
         (effects (font (size 2 2) bold))
       )
     )
-    (symbol "LM5051MA{brace}brace}brace}slash}NOPB_0_1"
+    (symbol "LM5051_0_1"
       (polyline
         (pts
           (xy -17.78 -10.16)
@@ -3490,7 +3490,7 @@
         (fill (type none))
       )
     )
-    (symbol "LM5051MA{brace}brace}brace}slash}NOPB_1_1"
+    (symbol "LM5051_1_1"
       (polyline
         (pts
           (xy -12.7 2.54)
