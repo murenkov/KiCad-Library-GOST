@@ -3,7 +3,7 @@
   (tedit 62C6C441)
   (descr "Common Mode Choke (Filter) 7.6 uH 700 Ohms 8A 6 mOhms")
   (tags "ACM12V-701-2PL-TL00, CMC, choke, common mode, filter")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -6.49) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b2547c4a-4c21-40e5-be45-e79c69e17e23)
