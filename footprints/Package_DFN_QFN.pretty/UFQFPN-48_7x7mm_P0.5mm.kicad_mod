@@ -3,7 +3,7 @@
   (tedit 6253B676)
   (descr " UFQFPN48 - 48-lead, 7 x 7 mm, 0.5 mm pitch, ultra thin fine pitch")
   (tags "UFQFPN, stm32f401, stm32f411, f401, uqfn 48")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -4.925) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 33102e92-8e65-423c-91a5-21f397c41fb5)
